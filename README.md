@@ -12,7 +12,7 @@ API desenvolvida em Node.js para gerenciamento de pedidos.
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/order-api.git
+git clone https://github.com/CauaAmarall/order-api.git
 
 Entre na pasta:
 
